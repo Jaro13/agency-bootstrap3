@@ -1,0 +1,14 @@
+
+
+vendor - gitignore
+
+npm install - jak siagną wszystkie bibilioteki?
+
+logo, favicon, 
+
+index.html z vendor
+
+gulp imageming
+gulp brad
+
+
